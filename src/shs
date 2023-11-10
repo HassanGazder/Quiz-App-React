@@ -1,0 +1,109 @@
+const AllQuiz = [
+  {
+    Question: "1: What is the capital of pakistan",
+    options: [
+      {
+        ans: "karachi",
+        istrue: true,
+      },
+      {
+        ans: "islamabad",
+        istrue: false,
+      },
+      {
+        ans: "lahore",
+        istrue: false,
+      },
+      {
+        ans: "peshawar",
+        istrue: false,
+      },
+    ],
+  },
+  {
+    Question: "2: What is the Capital of france",
+    options: [
+      {
+        ans: "paris",
+        istrue: true,
+      },
+      {
+        ans: "karachi",
+        istrue: false,
+      },
+      {
+        ans: "london",
+        istrue: false,
+      },
+      {
+        ans: "lahore",
+        istrue: false,
+      },
+    ],
+  },
+
+  {
+    Question: "3: What is the Capital of germany",
+    options: [
+      {
+        ans: "paris",
+        istrue: true,
+      },
+      {
+        ans: "berlin",
+        istrue: false,
+      },
+      {
+        ans: "london",
+        istrue: false,
+      },
+      {
+        ans: "lahore",
+        istrue: false,
+      },
+    ],
+  }
+
+ , {
+    Question: "4: What is the Capital of Austrailia",
+    options: [
+      {
+        ans: "paris",
+        istrue: false,
+      },
+      {
+        ans: "berlin",
+        istrue: false,
+      },
+      {
+        ans: "Canberra",
+        istrue: true,
+      },
+      {
+        ans: "lahore",
+        istrue: false,
+      },
+    ],
+  }
+  , {
+    Question: "5: Capital of England",
+    options: [
+      {
+        ans: "paris",
+        istrue: false,
+      },
+      {
+        ans: "berlin",
+        istrue: false,
+      },
+      {
+        ans: "Canberra",
+        istrue: false,
+      },
+      {
+        ans: "London",
+        istrue: true,
+      },
+    ],
+  }
+];
